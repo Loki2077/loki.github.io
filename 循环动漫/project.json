@@ -1,0 +1,112 @@
+{
+	"description" : "循环动漫桌面+bgm+3d雪花\n!--\nCopyright (c) 2017 by CocoMemor (http://steamcommunity.com/sharedfiles/filedetails/?id=1108983160)\n\nPermission is hereby granted",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"BGM_lhy" : 
+			{
+				"options" : 
+				[
+					{
+						"label" : "🔀随机播放Random",
+						"value" : 0
+					},
+					{
+						"label" : "🎵.Old Memory",
+						"value" : 1
+					},
+					{
+						"label" : "🎵.Bloom of Youth",
+						"value" : 2
+					},
+					{
+						"label" : "🎵.瞬间的永恒",
+						"value" : 3
+					},
+					{
+						"label" : "🎵.勿念他归",
+						"value" : 4
+					},
+					{
+						"label" : "🎵.君だったら",
+						"value" : 5
+					},
+					{
+						"label" : "🎵.かたわれ時",
+						"value" : 6
+					}
+				],
+				"order" : 50,
+				"text" : "BGM选项",
+				"type" : "combo",
+				"value" : 0
+			},
+			"Loop_lhy" : 
+			{
+				"order" : 48,
+				"text" : "🔂循环模式(Loop)",
+				"type" : "bool",
+				"value" : true
+			},
+			"Play_lhy" : 
+			{
+				"order" : 47,
+				"text" : "▶开启音乐(Play/pause)",
+				"type" : "bool",
+				"value" : false
+			},
+			"Volume_lhy" : 
+			{
+				"max" : 100,
+				"min" : 0,
+				"order" : 46,
+				"text" : "📶音量Volume",
+				"type" : "slider",
+				"value" : 49
+			},
+			"diyText1" : 
+			{
+				"order" : 2,
+				"text" : "Castro Script",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"diyText2" : 
+			{
+				"order" : 6,
+				"text" : "Vtks Thx",
+				"type" : "textinput",
+				"value" : "Dream it possible"
+			},
+			"diyText3" : 
+			{
+				"order" : 3,
+				"text" : "义启圣诞体",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"diyText4" : 
+			{
+				"order" : 7,
+				"text" : "义启心花怒放",
+				"type" : "textinput",
+				"value" : ""
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 1 1"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "循环动漫桌面",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 1128533702
+}
